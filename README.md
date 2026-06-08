@@ -47,7 +47,9 @@ Retail businesses need visibility into sales performance and profitability acros
 
 * Power BI Dashboard (.pbix)
 * Dashboard Screenshots
+* Project Documentation
+
+
 
 <img width="1350" height="743" alt="Superstore Dashboard" src="https://github.com/user-attachments/assets/61f93dff-fcde-49f7-a605-5a35dc41e361" />
 
-* Project Documentation
